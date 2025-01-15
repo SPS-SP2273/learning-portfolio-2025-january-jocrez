@@ -1,1 +1,2 @@
 42 is the answer!
+Another line from the cloud
